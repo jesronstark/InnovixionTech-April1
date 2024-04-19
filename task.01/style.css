@@ -1,0 +1,25 @@
+#tx{
+    color:rgb(0, 0, 0);
+    text-align: center;
+    font-size: 80px;
+    text-shadow: 1px 1px 8px rgb(132, 255, 0);
+  }
+  body{
+   
+    background-color: black;
+  } 
+   #countdown{
+    margin-left: 300px;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    word-spacing: 30px;
+    text-shadow: 1px 1px 7px rgb(0, 195, 255);
+    font-size: 125px;
+    color: rgb(0, 0, 0);
+  }
+  #countdown:visited{
+    color: aqua;
+  }
+  #countdown:hover{
+    color: aqua;
+  }
